@@ -1,0 +1,15 @@
+project:
+  execute-dir: project
+
+format:
+  html:
+    number-sections: true
+  pdf:
+    number-sections: true
+
+execute:
+  freeze: false
+
+
+
+
